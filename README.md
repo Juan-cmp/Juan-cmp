@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+hola mi nombre es Juan y este es la descripcion de mi perfil. 
 <!--
 **Juan-cmp/Juan-cmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
